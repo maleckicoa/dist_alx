@@ -1,4 +1,4 @@
-Python package for PyPI publishing
+Python dummy package for learning how to publish packages on PyPI
 
 
 # dist_alx
@@ -18,13 +18,13 @@ Instalation procedure: https://medium.com/@mihajlovic.aleksa/make-your-own-pytho
 The package is a 
 
 ## Files <a name="Files"></a>
-Zipped file dist_alx contains three files:
+Zipped file "dist_alx" contains three files:
 
 -setup.py
 
 -setup.cfg
 
--sub-folder dist_alx (which contains 4 python scripts)
+-sub-folder "dist_alx" (which contains an init.py file and 3 other python scripts)
 
 ## Licensing <a name="Licensing"></a>
 
