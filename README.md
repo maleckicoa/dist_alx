@@ -15,7 +15,8 @@ The repository contains a zipped file of a python package whose instalation shou
 Instalation procedure: https://medium.com/@mihajlovic.aleksa/make-your-own-python-package-6d08a400fc2d
 
 ## Motivation <a name="Motivation"></a>
-The package is a 
+The package is intended as a learning material for publishing on PyPI. 
+The package returns
 
 ## Files <a name="Files"></a>
 Zipped file "dist_alx" contains three files:
