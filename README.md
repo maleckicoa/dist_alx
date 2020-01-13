@@ -12,3 +12,9 @@ Python package for PyPI publishing
 
 ## Installation <a name="installation"></a>
 The workbook
+
+## Motivation <a name="Motivation"></a>
+
+## Files <a name="Files"></a>
+
+## Licensing <a name="Licensing"></a>
