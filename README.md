@@ -1,4 +1,4 @@
-Python dummy package for learning how to publish packages on PyPI
+Python package for learning how to publish packages on PyPI
 
 
 # dist_alx
@@ -11,25 +11,25 @@ Python dummy package for learning how to publish packages on PyPI
 5. [Licensing](#licensing)
 
 ## Installation <a name="installation"></a>
-The repository contains a zipped file of a python package whose instalation should be done via terminal.
+The repository contains a zipped file of a python package whose instalation should be done via terminal.<br/>
 Instalation procedure: https://medium.com/@mihajlovic.aleksa/make-your-own-python-package-6d08a400fc2d
 
 ## Motivation <a name="Motivation"></a>
-The package is intended as a learning material for publishing on PyPI. 
-The package returns
+The package is intended as a learning material for publishing on PyPI. <br/>
+The package contains Gaussian() and Binomial() functions, which return the mean, standard deviation and other output for these distributions<br/>
+For full description of the package, go through the docstring inside the .py files.<br/>
 
 ## Files <a name="Files"></a>
 Zipped file "dist_alx" contains three files:
 
--setup.py
-
--setup.cfg
-
+-setup.py<br/>
+-setup.cfg<br/>
 -sub-folder "dist_alx" (which contains an init.py file and 3 other python scripts)
 
 ## Licensing <a name="Licensing"></a>
 
-Copyright <2020><Aleksa Mihajlovic>
+Copyright <2020><br/>
+<Aleksa Mihajlovic>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
