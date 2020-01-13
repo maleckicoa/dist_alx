@@ -20,9 +20,9 @@ The package is a
 ## Files <a name="Files"></a>
 Zipped file dist_alx contains three files:
 
-setup.py
-setup.cfg
-sub-folder dist_alx (which contains 4 python scripts)
+*setup.py
+*setup.cfg
+*sub-folder dist_alx (which contains 4 python scripts)
 
 ## Licensing <a name="Licensing"></a>
 
