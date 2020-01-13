@@ -21,7 +21,9 @@ The package is a
 Zipped file dist_alx contains three files:
 
 *setup.py
+
 *setup.cfg
+
 *sub-folder dist_alx (which contains 4 python scripts)
 
 ## Licensing <a name="Licensing"></a>
