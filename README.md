@@ -18,7 +18,7 @@ Instalation procedure: https://medium.com/@mihajlovic.aleksa/make-your-own-pytho
 The package is intended as a learning material.<br/>
 The user should learn how to for publish Python packages on PyPI. <br/>
 The package contains two functions Gaussian() and Binomial(), which return the mean, standard deviation and other output for these two statistical distributions.<br/>
-For full description of all methods of the package, go through the docstring inside the .py files.<br/>
+For full description of all methods in the package, go through the docstring inside the .py files.<br/>
 
 ## Files <a name="Files"></a>
 Zipped file "dist_alx" contains three files:
