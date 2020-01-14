@@ -1,4 +1,4 @@
-Learning how to publish packages on PyPI !
+Learn how to publish packages on PyPI !
 
 
 # dist_alx
