@@ -1,4 +1,4 @@
-Python package for learning how to publish packages on PyPI
+Learning how to publish packages on PyPI !
 
 
 # dist_alx
@@ -11,13 +11,14 @@ Python package for learning how to publish packages on PyPI
 5. [Licensing](#licensing)
 
 ## Installation <a name="installation"></a>
-The repository contains a zipped file of a python package whose instalation should be done via terminal.<br/>
+The repository contains a zipped file of a Python package and should be installed on the PyPI server via terminal .<br/>
 Instalation procedure: https://medium.com/@mihajlovic.aleksa/make-your-own-python-package-6d08a400fc2d
 
 ## Motivation <a name="Motivation"></a>
-The package is intended as a learning material for publishing on PyPI. <br/>
-The package contains Gaussian() and Binomial() functions, which return the mean, standard deviation and other output for these distributions<br/>
-For full description of the package, go through the docstring inside the .py files.<br/>
+The package is intended as a learning material.<br/>
+The user should learn how to for publish Python packages on PyPI. <br/>
+The package contains two functions Gaussian() and Binomial(), which return the mean, standard deviation and other output for these two statistical distributions.<br/>
+For full description of all methods of the package, go through the docstring inside the .py files.<br/>
 
 ## Files <a name="Files"></a>
 Zipped file "dist_alx" contains three files:
